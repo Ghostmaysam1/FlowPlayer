@@ -1,5 +1,11 @@
+import Navbar from "./modules/Navbar/Navbar"
+
 function App() {
-  return <></>
+  return (
+    <>
+      <Navbar />
+    </>
+  )
 }
 
 export default App
